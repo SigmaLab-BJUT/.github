@@ -11,7 +11,7 @@ Our research focuses on **computer vision and deep learning**. We are particular
 * Multimodal learning
 
 
-Our team is committed to advancing the performance of deepfake detection models, yielding a series of impactful research findings. These including... [解码可视化特征](项目链接), [多尺度特征](项目链接),[频谱特征](项目链接),[动态图](项目链接),[光照特征](项目链接).
+Our team is committed to advancing the performance of deepfake detection models, yielding a series of impactful research findings. These including [rlgc](https://github.com/SigmaLab-BJUT/Multi-scale-Reconstruction-Features), [SFDG](https://github.com/SigmaLab-BJUT/SFDG-DCT-SWT),[DCT](https://github.com/SigmaLab-BJUT/SFDG-DCT-SWT),[SWT](https://github.com/SigmaLab-BJUT/SFDG-DCT-SWT),[Illumination-Features](https://github.com/SigmaLab-BJUT/Illumination-Features).
 
 ## 🌈 Contribution Guidelines & Collaboration
 
